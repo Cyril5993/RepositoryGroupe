@@ -1,11 +1,13 @@
 blablabla
 Salut ca va ? 
 Aller on se reveille !!
-<<<<<<< HEAD
+
 Tu fais quoi ?
 Allo ?
-=======
+
 MDR
 Tu fais quoi ?
 rien de particulier, je joue à pokémon showdown.
->>>>>>> 260e7397f74f0df34cb253bcd91a7414bf3c67a9
+
+et toi tu fais quoi ?
+
