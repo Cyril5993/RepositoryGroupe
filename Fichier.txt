@@ -11,3 +11,5 @@ rien de particulier, je joue à pokémon showdown.
 
 et toi tu fais quoi ?
 
+rien de special , je suis avec Git Bash
+
