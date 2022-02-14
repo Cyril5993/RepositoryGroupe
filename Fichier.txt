@@ -13,3 +13,4 @@ et toi tu fais quoi ?
 
 rien de special , je suis avec Git Bash
 
+ok, tu sais que tu peux jouer à pokemon showdown depuis ton navigateur comme pour discord (sans télécharger l'appli)
