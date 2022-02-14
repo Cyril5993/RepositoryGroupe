@@ -3,6 +3,8 @@ h1{
 }
 body{
     margin: 0px;
+    background-color: blueviolet;
+    color: white;
 }
 div{
     margin-left: 25px;
