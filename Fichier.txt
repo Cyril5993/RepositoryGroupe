@@ -13,5 +13,6 @@ et toi tu fais quoi ?
 
 rien de special , je suis avec Git Bash
 
-ca m'as l'air compliquer ton jeux nan ????
+ok, tu sais que tu peux jouer à pokemon showdown depuis ton navigateur comme pour discord (sans télécharger l'appli)
 
+r'ajoute tes paragraphes que tu avais mit dansle dossier html, j'ai eu un problème qui ajouter des balise body et head et du coup j'ai tout supprimer sans faire exprès ^^'
